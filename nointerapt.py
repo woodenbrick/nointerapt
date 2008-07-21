@@ -101,3 +101,6 @@ def generateDownloadList():
     #os.system('mv ' + downloadList + ' ' + FLASH)
 def testCheckout():
     print 'ass'
+    
+def anotherChange():
+    print 'yes'
