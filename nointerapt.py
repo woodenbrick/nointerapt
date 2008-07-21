@@ -99,3 +99,5 @@ def generateDownloadList():
     print 'download list complete'
     downloadList.close()
     #os.system('mv ' + downloadList + ' ' + FLASH)
+def testCheckout():
+    print 'ass'
